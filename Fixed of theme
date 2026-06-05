@@ -1,0 +1,11 @@
+| Token              | Light Mode                | Dark Mode                  |
+| ------------------ | ------------------------- | -------------------------- |
+| **Background**     | `#ffffff` pure white      | `#0a0a0a` near-black       |
+| **Surface/Card**   | `#fafafa` off-white       | `#141414` dark surface     |
+| **Primary**        | `#9f1239` crimson         | `#e11d48` brighter crimson |
+| **Text Primary**   | `#000000` black           | `#ffffff` white            |
+| **Text Secondary** | `#1a1a1a` near-black      | `#a1a1aa` zinc-400         |
+| **Border**         | `rgba(159, 18, 57, 0.25)` | `rgba(225, 29, 72, 0.30)`  |
+| **Glow**           | `rgba(159, 18, 57, 0.15)` | `rgba(225, 29, 72, 0.20)`  |
+| **Success**        | `#16a34a` green           | `#22c55e`                  |
+| **Warning**        | `#ca8a04` yellow          | `#eab308`                  |
